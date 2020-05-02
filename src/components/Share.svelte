@@ -45,7 +45,7 @@
   </div>
   <div class="Share-content">
     <a
-      href="https://www.facebook.com/sharer/sharer.pho?&u=https://pugstagram.co">
+      href="https://www.facebook.com/sharer/sharer.pho?&u=https://dogstagram-oa.netlify.app/">
       <i class="fab fa-facebook-square" target="_blank" />
       Compartir en Facebook
     </a>
